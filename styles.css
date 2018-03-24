@@ -20,9 +20,28 @@ h2 {
 
 p {
     font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    margin-left: 50px;    
 }
 
 img.airbnb_img {
-    transform: rotate(90deg);
     overflow-wrap: normal;
+}
+
+h2.h2_1 {
+    color: blue;
+}
+
+h2.h2_2 {
+    color: red;
+}
+
+h2.h2_3 {
+    color: purple;
+}
+
+h2.h2_4 {
+    color: green;
 }
